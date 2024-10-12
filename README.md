@@ -1,4 +1,44 @@
-## Hi there 👋
+## About me
+
+- 高等専門学校 情報工学科4年('26年3月卒業予定)
+- プロコンゼミ所属
+
+## 使用言語・フレームワークなど
+
+### そこそこ使ったことがある
+
+- C
+- C#
+- Dart(Flutter)
+- SmileBASIC
+
+### ちょっとだけ使ったことがある
+
+- C++
+- Java
+- Python(Django)
+- JavaScript/TypeScript
+- HTML/CSS
+- Go
+- PostgreSQL
+
+### 勉強中
+
+- React
+- Next.js
+- Rust
+
+## My works
+
+### 作ったもの
+
+- 第33回高専プロコン 自由部門
+  - 開発メンバーとして参加
+
+### 作っているもの
+
+- TerrariaのMod
+
 
 <!--
 **Ackky2424/Ackky2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
