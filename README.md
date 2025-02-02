@@ -29,7 +29,7 @@
 
 - React
 - Next.js
-- Rust
+- Rust(Tauri)
 
 ## My works
 
@@ -43,6 +43,8 @@
 ### 作っているもの
 
 - TerrariaのMod
+
+- (ほぼ自分用の)デスクトップ向けGitHubクライアント
 
 
 <!--
